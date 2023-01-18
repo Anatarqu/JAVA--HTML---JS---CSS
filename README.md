@@ -1,2 +1,2 @@
-# PYTHON---JAVA---HTML---JS---CSS
+# LENGUAJES DE PROGRAMACIÓN
 En construcción.
